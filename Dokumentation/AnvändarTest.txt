@@ -1,0 +1,6 @@
+- Vad vill man att användaren ska testa?
+Jag vill att använderan ska testa om websidan fungerar bra
+- Hur ska användaren testa?
+Genom a klicka på sidorna som finns på websidan.
+- Vad ska du dokumentera?
+Hur det går med websidan och vad användaren tycker om, om websidan
