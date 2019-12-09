@@ -4,3 +4,21 @@ Jag vill att använderan ska testa om websidan fungerar bra
 Genom a klicka på sidorna som finns på websidan.
 - Vad ska du dokumentera?
 Hur det går med websidan och vad användaren tycker om, om websidan
+
+Test:
+
+Sida (Framtiden för internet): Borde byta plats på videon och texten.
+
+Sida (Text-TV-Internet): Ser Bra ut.
+
+Sida (Forskare "surfar" på papper): Borde göra samma sak som för "Framtiden för internet", att byta plats på video och texten också.
+
+Sida (Telia spår rätt om e-handel): Ser bra ut också.
+
+Sida (Ansikts burk): Ser bra.
+
+Sida (Hemsidors Utveckling): Bra.
+
+Sida (Webbpublicerings-system): Inga kommentarer för denna sida.
+
+Borde lägga till en till sida och fixa problemen för de sidorna som test användaren har sagt.
