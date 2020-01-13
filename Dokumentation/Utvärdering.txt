@@ -1,0 +1,30 @@
+Vad har du gjort i denna projekt?:
+
+Jag har skapat en hemsida som handlar om internet museum med olika sidor.
+Först så skapade jag en sida som har information om vad sidan handlar om, 
+sedan skapade jag flera olika sidor som innehållde olika artiklar som jag
+tog från internet museum. Nästan alla av de så finns det videos också 
+inlagd i sidan. Efter det så skapade jag några sidor till, en av de 
+handlade om steam's sido utveckling (om hur den har utvecklas från början till nu tid).
+En annan sida handlar om företag där det står två företag med olika informationer om vem de är,
+hur länge de har varit runt och vad de gör.
+
+
+1. Vad gick bra?
+
+Det som har gått bra va att skriva om steam och hur den har utvecklas vilket kändes roligt för mig att göra.
+
+2. Vad var svårast med den delen?
+
+Det som var svårast var att fixa up programmering delarna. Typ som vart bilder skulle ligga och var texten skulle också ligga.
+Det kändes väldigt jobbigt och stressande att sitta fast på samma ställe länge, vilket fick min tänkande bli långsam och tråkigt.
+
+3. Vad skulle kunna gjorts bättre?
+
+Säkert sidans stil skulle kunna bli bättre på grund av att det ser väldigt basic ut. Texten och vart videon ligger skulle kunna 
+förbättras med att ligga någon stans vid sidan så man kan läsa.
+
+4. Hur påverkade resultatet från användartestet den delen.
+
+Från användartestet så har användaren sagt att det är bra nog om jag byter biten på texten och bilden så det är på plats vilket
+jag har gjort efter testet. Så bilden och texten har bytit plats.
